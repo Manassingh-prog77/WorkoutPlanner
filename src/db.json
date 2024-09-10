@@ -1,0 +1,642 @@
+{
+      "abs": [
+        {
+          "name": "Hanging Leg Raises",
+          "targetMuscle": "Lower Abs",
+          "description": "Hanging Leg Raises are excellent for targeting the lower abs with an emphasis on core stability. This exercise requires hanging from a bar and lifting the legs up towards the chest while keeping the body stable. It helps in building lower abdominal strength and improving overall core stability.",
+          "image": "https://gymjunkies.com/wp-content/uploads/2018/06/shutterstock_775161919-1.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=8dMZi4hE0OQ",
+          "characterImage": "https://weighttraining.guide/wp-content/uploads/2019/05/Hanging-leg-raise-resized.png",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Ab Wheel Rollouts",
+          "targetMuscle": "Core (Upper and Lower Abs)",
+          "description": "Ab Wheel Rollouts challenge both the upper and lower abs while improving core stability. Using an ab wheel, you roll out and then pull back in, engaging the entire core. This exercise is great for building a strong, stable core.",
+          "image": "https://img.mensxp.com/media/content/2016/Jun/ab-wheel-rollouts-for-a-strong-core980-1467109093.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=9sP8Z2edJ6Q",
+          "characterImage": "https://i.ytimg.com/vi/VmqDIL2xzbk/hqdefault.jpg",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Cable Woodchoppers",
+          "targetMuscle": "Obliques, Core",
+          "description": "Cable Woodchoppers involve a rotational movement that works the obliques and entire core. Using a cable machine, you pull the cable across your body in a chopping motion, effectively engaging the core and oblique muscles.",
+          "image": "https://static.strengthlevel.com/images/illustrations/cable-woodchopper-1000x1000.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=3h6ZYSRzEoM",
+          "characterImage": "https://static.strengthlevel.com/images/illustrations/cable-woodchopper-1000x1000.jpg",
+          "repsChart": "12-15 reps per side, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Dragon Flags",
+          "targetMuscle": "Entire Core",
+          "description": "Dragon Flags are an intense exercise for developing overall core strength and stability. Lying on a bench, hold onto the edges and lift your body up while keeping it straight, then lower it back down slowly. This challenging move requires significant core strength.",
+          "image": "https://www.vahvafitness.com/wp-content/uploads/2015/12/dragon-flag-exercise.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=ZmTSKN8m8Y4",
+          "characterImage": "https://www.oldschoollabs.com/wp-content/uploads/2021/02/40581301-Leg-Raise-Dragon-Flag_Waist_720.gif",
+          "repsChart": "6-10 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "V-Sits",
+          "targetMuscle": "Core (Upper and Lower Abs)",
+          "description": "V-Sits combine a V-up and hold for a deep core engagement. Sitting on the floor, lift your legs and upper body into a V shape and hold. This exercise targets both the upper and lower abs, challenging the core with a static hold.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.npSJNhiWV8Mx_RbRgGxTywAAAA&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=qkT1bEUVQQM",
+          "characterImage": "https://gymvisual.com/13880-thickbox_default/v-sit-on-floor.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Toe Touches on Stability Ball",
+          "targetMuscle": "Upper Abs",
+          "description": "Toe Touches on a Stability Ball add an instability component to increase core activation. Lying on a stability ball, lift your legs and reach for your toes while maintaining balance. This exercise enhances the engagement of the upper abs.",
+          "image": "https://cdn-ami-drupal.heartyhosting.com/sites/muscleandfitness.com/files/media/800-Toe-Touch.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=5u1kLN6eiR4",
+          "characterImage": "https://workoutlabs.com/wp-content/uploads/watermarked/Jackknife_Sit-up_M_WorkoutLabs.png",
+          "repsChart": "12-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Banded Russian Twists",
+          "targetMuscle": "Obliques",
+          "description": "Banded Russian Twists incorporate resistance bands to enhance oblique work. Seated on the floor with a band anchored behind you, twist your torso from side to side. This variation increases the intensity and effectiveness of the exercise.",
+          "image": "https://i.ytimg.com/vi/CFF48yVEYtE/maxresdefault.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=8NU8Q1tE2j0",
+          "characterImage": "https://liftmanual.com/wp-content/uploads/2023/04/kettlebell-russian-twist.jpg",
+          "repsChart": "15-20 reps per side, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "L-Sits",
+          "targetMuscle": "Core (Entire)",
+          "description": "L-Sits require significant core strength and stability. Performed on parallel bars or a dip station, lift your legs straight out in front of you while supporting yourself with your arms. This exercise builds overall core strength and endurance.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.r9VuTYXFBk6kD5quI8hJ4gHaDt&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=xEyX1UlWje0",
+          "characterImage": "https://liftmanual.com/wp-content/uploads/2023/04/l-sit.jpg",
+          "repsChart": "Hold for 10-20 seconds, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Front Planks with Arm Lift",
+          "targetMuscle": "Core (Entire)",
+          "description": "Front Planks with Arm Lift enhance core stability and strength with added movement. In a plank position, lift one arm at a time while maintaining balance. This variation challenges the core further and improves overall stability.",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.6XTCtM272wib94zDSEJ-0AHaDt&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=rP9cSE7C_gs",
+          "characterImage": "https://gymvisual.com/17168-thickbox_default/front-plank-with-arm-and-leg-lift-push-up-position-male.jpg",
+          "repsChart": "10-15 reps per side, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Reverse Crunches on Bench",
+          "targetMuscle": "Lower Abs",
+          "description": "Reverse Crunches on a Bench target the lower abs with a controlled motion. Lying on a bench with your legs lifted, curl your hips up towards your chest and lower them back down. This exercise focuses on the lower abdominal region.",
+          "image": "https://i.ytimg.com/vi/_dwsYw63v4k/maxresdefault.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=diZ8wvZG4jQ",
+          "characterImage": "https://i.pinimg.com/originals/f3/1d/34/f31d349cc66bd25efd35b4a153f5bb4f.png",
+          "repsChart": "12-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        }
+      ],
+      "arms": [
+        {
+          "name": "Barbell Curl with E-Z Bar",
+          "targetMuscle": "Biceps",
+          "description": "Barbell Curl with E-Z Bar focuses on the biceps with a different angle for a varied contraction. Using an E-Z bar allows for a more natural grip, reducing strain on the wrists while effectively targeting the biceps.",
+          "image": "https://mirafit.co.uk/wp/wp-content/uploads/2019/08/fitness-expert-doing-bicep-curls-with-an-ez-cutl-bar.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+          "characterImage": "https://weighttraining.guide/wp-content/uploads/2016/10/EZ-Barbell-Curl-resized.png",
+          "repsChart": "10-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Skull Crushers with Close Grip Bench Press",
+          "targetMuscle": "Triceps",
+          "description": "Skull Crushers with Close Grip Bench Press is a hybrid move that targets the triceps intensely. By combining a skull crusher with a close-grip bench press, you maximize tricep activation and development.",
+          "image": "https://www.bodybuilding.com/fun/images/2015/torch-your-arms-with-this-super-superset-1.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=DnEZL9guWZ8",
+          "characterImage": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Close-Grip-Bench-Press.gif",
+          "repsChart": "8-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Incline Dumbbell Curls",
+          "targetMuscle": "Biceps",
+          "description": "Incline Dumbbell Curls isolate the biceps while reducing momentum. Performing the curls on an incline bench targets the biceps from a different angle, increasing the stretch and contraction during the exercise.",
+          "image": "https://bodybuilding-wizard.com/wp-content/uploads/2014/05/incline-bench-dumbbell-bicep-curl.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=soCqa0L3H1o",
+          "characterImage": "https://bodybuilding-wizard.com/wp-content/uploads/2014/05/incline-bench-dumbbell-bicep-curl.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Tricep Dips with Added Weight",
+          "targetMuscle": "Triceps",
+          "description": "Tricep Dips with Added Weight focus on triceps and allow for deeper muscle engagement. By adding weight using a belt or holding a dumbbell between the legs, you increase the resistance and intensity of the dip exercise.",
+          "image": "https://cdn.muscleandstrength.com/sites/default/files/weighted-dips.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "characterImage": "https://homegymreview.co.uk/wp-content/uploads/exercises/17671101-Weighted-Triceps-Dip-on-High-Parallel-Bars_Upper-Arms_max-2048x1487.jpg",
+          "repsChart": "8-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Preacher Curls",
+          "targetMuscle": "Biceps",
+          "description": "Preacher Curls utilize a preacher bench to isolate the biceps while minimizing momentum. This strict form helps in achieving a full contraction and development of the biceps.",
+          "image": "https://www.fitnessandbeast.com/wp-content/uploads/2016/02/Preacher-curl.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=ghT0LwxGQ1M",
+          "characterImage": "https://weighttraining.guide/wp-content/uploads/2018/08/EZ-bar-reverse-preacher-curl-2a.png",
+          "repsChart": "10-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Overhead Tricep Extensions with Dumbbells",
+          "targetMuscle": "Triceps",
+          "description": "Overhead Tricep Extensions with Dumbbells stretches and works the long head of the triceps. Holding a dumbbell with both hands, extend the arms overhead and lower the weight behind the head before returning to the starting position.",
+          "image": "http://s3.amazonaws.com/prod.skimble/assets/1375615/image_iphone.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=ZPkaY-Ii8zg",
+          "characterImage": "https://static.wixstatic.com/media/2edbed_f11b28739c1a48c29038888f072a4431~mv2.webp",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Concentration Curls",
+          "targetMuscle": "Biceps",
+          "description": "Concentration Curls focus on peak contraction in the biceps. Sitting on a bench, curl a dumbbell with one arm while bracing the elbow against the inner thigh for isolation. This exercise maximizes bicep engagement and development.",
+          "image": "https://cdn.muscleandstrength.com/sites/default/files/seated-concentration-curl.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=ZbczdrTkIhM",
+          "characterImage": "https://www.inspireusafoundation.org/wp-content/uploads/2022/01/concentration-curl-benefits.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Cable Tricep Pushdowns",
+          "targetMuscle": "Triceps",
+          "description": "Cable Tricep Pushdowns allow for constant tension throughout the movement. Using a cable machine with a straight bar or rope attachment, push the weight down towards your thighs, fully extending the triceps. This exercise enhances tricep strength and definition.",
+          "image": "https://i.ytimg.com/vi/6Fzep104f0s/maxresdefault.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=2-L6G9gBr2Q",
+          "characterImage": "https://homegymreview.co.uk/wp-content/uploads/exercises/12271101-Cable-Standing-One-Arm-Tricep-Pushdown-Overhand-Grip_Upper-Arms_max-scaled.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Hammer Curls with Rope Attachment",
+          "targetMuscle": "Brachialis, Forearms",
+          "description": "Hammer Curls with a Rope Attachment target the brachialis and forearms. Using a rope on a cable machine, curl the weight with a neutral grip to emphasize the brachialis muscle, which lies underneath the biceps.",
+          "image": "https://tse3.mm.bing.net/th?id=OIP.3lJypL6XajrQqD78d91WUAHaEo&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=6hN0s41GQ-Q",
+          "characterImage": "https://homegymreview.co.uk/wp-content/uploads/exercises/16401101-Cable-Rope-One-Arm-Hammer-Preacher-Curl_Upper-Arms_max-scaled.jpg",
+          "repsChart": "10-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "One-Arm Tricep Kickbacks",
+          "targetMuscle": "Triceps",
+          "description": "One-Arm Tricep Kickbacks isolate the triceps for focused contraction. Bent over at the waist, extend one arm back while holding a dumbbell, fully engaging the tricep. This exercise is great for targeting the tricep's long head.",
+          "image": "https://tse3.mm.bing.net/th?id=OIP.6jvZGWkqXE8uoB92Nxb89wHaE8&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=w0vU6TWzhxY",
+          "characterImage": "https://images.squarespace-cdn.com/content/v1/55e406fbe4b0b03c5e7543ae/1492945237972-Y793AVTT87WJZA6Z56RW/One+Arm+Triceps+Kick-Backs",
+          "repsChart": "10-15 reps per arm, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        }
+      ],
+      "back": [
+        {
+          "name": "Deadlifts",
+          "targetMuscle": "Lower Back, Glutes, Hamstrings",
+          "description": "Deadlifts are a foundational compound lift that targets the entire back and lower body. Proper technique is crucial to avoid injury. The exercise involves lifting a barbell from the ground to hip level, engaging the entire posterior chain.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.HOvr_sHMrd1z-Sv5yKMgwQHaEo&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+          "characterImage": "https://tse4.mm.bing.net/th?id=OIP.DYhNJHGldOs-V0E6xGQ0wAHaEK&pid=Api&P=0&h=180",
+          "repsChart": "6-10 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Weighted Pull-Ups",
+          "targetMuscle": "Upper Back, Lats",
+          "description": "Weighted Pull-Ups are an advanced upper back exercise with added weight for intensity. Using a weight belt or holding a dumbbell between the feet, perform pull-ups to engage the lats and upper back.",
+          "image": "https://i.pinimg.com/736x/6b/e1/83/6be1833df2c4932752e8af9dd9366981.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=7E--qK-HrFQ",
+          "characterImage": "https://tse2.mm.bing.net/th?id=OIP.7dmdXQZl0s-DlYoNFFNkEwHaEK&pid=Api&P=0&h=180",
+          "repsChart": "6-10 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Bent Over Barbell Rows",
+          "targetMuscle": "Middle Back, Lats",
+          "description": "Bent Over Barbell Rows target the middle back with emphasis on form and weight. Bent at the waist, row a barbell towards the torso to engage the middle back and lats effectively.",
+          "image": "http://cdn.shopify.com/s/files/1/1497/9682/articles/1_fab7e378-ea24-4319-93e0-28ebf7ce52f1.jpg?v=1647875365",
+          "videoLink": "https://www.youtube.com/watch?v=vT2GjY_Umpw",
+          "characterImage": "https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png",
+          "repsChart": "8-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Lat Pulldowns",
+          "targetMuscle": "Lats",
+          "description": "Lat Pulldowns work the latissimus dorsi muscles with a cable machine. Pull the bar down towards the chest, engaging the lats throughout the movement. This exercise is effective for building width in the back.",
+          "image": "https://www.bodybuilding.com/images/2017/may/5-lat-pulldown-variations-for-an-impressive-physique--v2-5-960xh.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "characterImage": "https://www.inspireusafoundation.org/wp-content/uploads/2021/10/lat-pulldown-1024x797.png",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Seated Cable Rows",
+          "targetMuscle": "Middle Back, Lats",
+          "description": "Seated Cable Rows target the middle back with a controlled motion. Sitting at a cable row machine, pull the handle towards the torso, focusing on squeezing the shoulder blades together for optimal back engagement.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.1QNskx6D2TL0z_6I5GLk1QAAAA&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=H2XJbGRWw7g",
+          "characterImage": "https://fitnessvolt.com/wp-content/uploads/2019/04/seated-cable-row.jpg",
+          "repsChart": "10-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "T-Bar Rows",
+          "targetMuscle": "Middle Back, Lats",
+          "description": "T-Bar Rows involve a unique angle that emphasizes the middle back and lats. Using a T-Bar row machine or landmine attachment, row the weight towards your torso, maintaining a strong back position.",
+          "image": "http://static1.squarespace.com/static/5750d5129f72662d66448028/587c5777ebbd1ab22e094137/5993e07febbd1a8e77df61aa/1512935345168/T-Bar+Row.jpg?format=1500w",
+          "videoLink": "https://www.youtube.com/watch?v=wZb4kXSFvU4",
+          "characterImage": "https://fitnessvolt.com/wp-content/uploads/2020/03/barbell-t-bar-rows.jpg",
+          "repsChart": "8-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Single-Arm Dumbbell Rows",
+          "targetMuscle": "Upper Back, Lats",
+          "description": "Single-Arm Dumbbell Rows isolate the upper back and lats. Supporting the body on a bench with one knee and hand, row a dumbbell towards the hip, focusing on the contraction of the back muscles.",
+          "image": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/255/Male/l/255_2.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=pW5gIz_fUeg",
+          "characterImage": "https://tse2.mm.bing.net/th?id=OIP.n0N01KW4OVKJNBE_SewRKAHaEK&pid=Api&P=0&h=180",
+          "repsChart": "10-12 reps per arm, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Barbell Shrugs",
+          "targetMuscle": "Traps",
+          "description": "Barbell Shrugs specifically target the trapezius muscles. Standing with a barbell at thigh level, shrug the shoulders up towards the ears and then lower them back down. This exercise is key for developing a stronger upper back and neck area.",
+          "image": "https://fitgag.com/wp-content/uploads/2022/06/The-Barbell-Shrug-Mistakes.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=KQct1cMPl-Y",
+          "characterImage": "https://weighteasyloss.com/wp-content/uploads/2018/04/94-2.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Dumbbell Pullovers",
+          "targetMuscle": "Lats, Chest",
+          "description": "Dumbbell Pullovers target both the lats and chest with a single movement. Lying on a bench with a dumbbell held above the chest, lower the weight back behind the head and then pull it back up. This exercise provides a great stretch for the lats and chest.",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.gnuCFS2P-4_HW1QpdHVedgAAAA&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=Bc5nVRzwE6Q",
+          "characterImage": "https://tse2.mm.bing.net/th?id=OIP.EMiIVIkfL0a1VP9HR77HNAHaEK&pid=Api&P=0&h=180",
+          "repsChart": "10-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Hyperextensions",
+          "targetMuscle": "Lower Back",
+          "description": "Hyperextensions strengthen the lower back muscles. Using a hyperextension bench, hinge at the hips to lower the upper body towards the floor and then return to the starting position. This exercise helps in building lower back endurance and strength.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.X4r-k9s0al43npX3aJ1OrgAAAA&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=6L0em8OXqAE",
+          "characterImage": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/45degree-hyperextension-resized.png",
+          "repsChart": "12-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        }
+      ],
+      "legs": [
+        {
+          "name": "Squats",
+          "targetMuscle": "Quads, Glutes, Hamstrings",
+          "description": "Squats are a fundamental compound exercise that targets the quads, glutes, and hamstrings. Maintaining proper form is essential to ensure full engagement of the target muscles and avoid injury.",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.tvQNpAnMi4WeJqljeQQKEgHaE7&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=QKKZ9A6wC4E",
+          "characterImage": "https://fitnessvolt.com/wp-content/uploads/2021/03/squat-muscles-worked-1140x1017.jpg",
+          "repsChart": "6-10 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Deadlifts",
+          "targetMuscle": "Hamstrings, Glutes, Lower Back",
+          "description": "Deadlifts are effective for working the hamstrings, glutes, and lower back. Proper technique is vital for this compound movement to target the posterior chain muscles and prevent injury.",
+          "image": "https://prod-academy-wp-content-uploads.s3.amazonaws.com/2016/01/DeafrancoDeadlift.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+          "characterImage": "https://www.inspireusafoundation.org/wp-content/uploads/2022/06/are-deadlifts-for-back-or-legs.jpg",
+          "repsChart": "6-10 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Leg Press",
+          "targetMuscle": "Quads, Glutes, Hamstrings",
+          "description": "Leg Press isolates the quads, glutes, and hamstrings with a machine-based movement. Adjust the seat and weight to perform the exercise effectively, focusing on proper form to maximize muscle engagement.",
+          "image": "https://i.ytimg.com/vi/vGD1Bcan2o0/maxresdefault.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=IZ7yEm0JvQo",
+          "characterImage": "https://static.strengthlevel.com/images/illustrations/vertical-leg-press-1000x1000.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Lunges",
+          "targetMuscle": "Quads, Glutes, Hamstrings",
+          "description": "Lunges are a dynamic lower body exercise that targets the quads, glutes, and hamstrings. Performing lunges with proper form ensures balanced development of the lower body muscles.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.yYY-LGTRXGFBoAAHyk4j6QHaEK&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+          "characterImage": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Lunge_600x600.png?v=1612138903",
+          "repsChart": "10-15 reps per leg, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Romanian Deadlifts",
+          "targetMuscle": "Hamstrings, Glutes",
+          "description": "Romanian Deadlifts focus on the hamstrings and glutes with a hip hinge movement. By keeping the barbell close to the body and maintaining a slight bend in the knees, you target the posterior chain effectively.",
+          "image": "https://i.ytimg.com/vi/1J3UP7s0KDA/maxresdefault.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=2L2sb1NRm_E",
+          "characterImage": "https://tse2.mm.bing.net/th?id=OIP.dkh10MJ8XHJxMFuL52jsCgHaE2&pid=Api&P=0&h=180",
+          "repsChart": "8-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Leg Extensions",
+          "targetMuscle": "Quads",
+          "description": "Leg Extensions isolate the quads using a machine-based movement. Adjust the seat and weight to focus on proper form and muscle engagement, enhancing quad strength and definition.",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.AT0iLTXMddNyOX2niPQFFwHaE7&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=8B4ACU5_7Sg",
+          "characterImage": "https://www.fitboot.com/wp-content/uploads/2022/04/Leg-Extension-1.png",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Hamstring Curls",
+          "targetMuscle": "Hamstrings",
+          "description": "Hamstring Curls target the hamstrings using a machine-based movement. Adjust the seat and weight to perform the exercise effectively, focusing on a full range of motion to enhance hamstring strength.",
+          "image": "https://i.ytimg.com/vi/oViYJxQrf6k/maxresdefault.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=F3tPPyG9dZw",
+          "characterImage": "https://www.inspireusafoundation.org/wp-content/uploads/2022/05/standing-leg-curl-2048x1384.png",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Calf Raises",
+          "targetMuscle": "Calves",
+          "description": "Calf Raises strengthen the calf muscles with a standing or seated movement. Using a calf raise machine or holding weights, perform the exercise with proper form to target the calves effectively.",
+          "image": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1841/Male/l/1841_2.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=YMmgqO8Jo-k",
+          "characterImage": "https://homegymreview.co.uk/wp-content/uploads/exercises/11641101-Smith-Calf-Raise-version-2_Calves_max-scaled.jpg",
+          "repsChart": "12-20 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        }
+      ],
+      "shoulders": [
+        {
+          "name": "Overhead Press",
+          "targetMuscle": "Shoulders, Triceps",
+          "description": "The Overhead Press is a compound movement that targets the shoulders and triceps. Using a barbell or dumbbells, press the weight overhead, focusing on full range of motion and proper form.",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.cXBVIgjQeoRbqCPTcD9nsgHaFL&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=2yjv4P5t7K4",
+          "characterImage": "https://tse2.mm.bing.net/th?id=OIP.7hTF29VDOccTLJRMYSd6zAHaFa&pid=Api&P=0&h=180",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Lateral Raises",
+          "targetMuscle": "Shoulders",
+          "description": "Lateral Raises focus on the deltoid muscles of the shoulders. Using dumbbells or cables, raise the arms to the side, keeping a slight bend in the elbows to target the medial deltoid effectively.",
+          "image": "https://www.infinityfitness.com/wp-content/uploads/2017/02/lateral-raise-2017.jpeg",
+          "videoLink": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "characterImage": "https://tse4.mm.bing.net/th?id=OIP.idC5-WNkGluCYi65OQoBcwHaEr&pid=Api&P=0&h=180",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Front Raises",
+          "targetMuscle": "Shoulders",
+          "description": "Front Raises target the front deltoid muscles. Using dumbbells or a barbell, raise the weight in front of the body, keeping the arms straight to emphasize the anterior deltoids.",
+          "image": "https://ignorelimits.com/wp-content/uploads/2017/08/Dumbbell_Front_Raise_Start.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "characterImage": "https://weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Standing-Alternate-Front-Raise-resized.png",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Rear Delt Flyes",
+          "targetMuscle": "Shoulders, Upper Back",
+          "description": "Rear Delt Flyes target the rear deltoid and upper back muscles. Bent over or lying face down on an incline bench, raise the arms to the side to engage the rear deltoids and upper back.",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.f6ukjmZHs2EsIUceL8qmDwHaHa&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=4pW2ldu-3jU",
+          "characterImage": "http://www.fitliferegime.com/wp-content/uploads/2022/04/Seated-Dumbbell-Rear-Delt-Fly.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Arnold Press",
+          "targetMuscle": "Shoulders",
+          "description": "Arnold Press is a variation of the Overhead Press that incorporates rotation to target all three deltoid heads. Begin with palms facing the body and rotate the hands as you press the weight overhead.",
+          "image": "https://gymguider.com/wp-content/uploads/2020/12/Arnold-Press.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=v2D5bshjK-Q",
+          "characterImage": "https://sporium.net/wp-content/uploads/2019/10/arnold-press-nereyi-calistirir.png",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Upright Rows",
+          "targetMuscle": "Shoulders, Traps",
+          "description": "Upright Rows target the shoulders and traps with a vertical pulling movement. Using a barbell or dumbbells, pull the weight up towards the chin, keeping the elbows higher than the wrists to emphasize the deltoids and traps.",
+          "image": "https://www.fitliferegime.com/wp-content/uploads/2021/10/Upright-Row-Muscle-Worked-Form-Benefits-Alternate-1536x864.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=6F6t1A9aMP4",
+          "characterImage": "https://www.fitliferegime.com/wp-content/uploads/2021/12/Ez-Bar-Upright-Row.jpg",
+          "repsChart": "8-12 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Dumbbell Shrugs",
+          "targetMuscle": "Traps",
+          "description": "Dumbbell Shrugs focus on the trapezius muscles. Holding a dumbbell in each hand, shrug the shoulders up towards the ears and then lower them back down. This exercise is crucial for building upper back and neck strength.",
+          "image": "https://tse3.mm.bing.net/th?id=OIP.3WT4xSIwuks59un_PgRFGwHaDX&pid=Api&P=0&h=180",
+          "videoLink": "https://www.youtube.com/watch?v=Z9nMN7EFCm4",
+          "characterImage": "http://cdn.shopify.com/s/files/1/0250/0362/2496/articles/5ee17b445694cd8620bba313_dumbbell-shrug-exercise-anabolic-aliens-p-500.png?v=1644921383",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        },
+        {
+          "name": "Face Pulls",
+          "targetMuscle": "Shoulders, Upper Back",
+          "description": "Face Pulls are performed using a rope attachment on a cable machine to target the rear delts and upper back. Pull the rope towards the face, emphasizing the squeeze in the rear delts and upper back.",
+          "image": "https://www.musculosespartanos.com/wp-content/uploads/2020/05/face-pull-1.png",
+          "videoLink": "https://www.youtube.com/watch?v=d1v-eW0qDRY",
+          "characterImage": "https://fitnessvolt.com/wp-content/uploads/2019/08/face-pull-exercise-muscles-worked-details.jpg",
+          "repsChart": "10-15 reps, 3 sets",
+          "note": "Perform all these exercises under supervision of a trainer for better results and avoid ego lifting to prevent injuries."
+        }
+      ],
+      "chest": [
+        {
+          "name": "Incline Bench Press",
+          "targetMuscle": "Upper Chest, Shoulders, Triceps",
+          "description": "The Incline Bench Press is an upper body exercise performed on an inclined bench. It targets the upper portion of the pectoral muscles, shoulders, and triceps by pressing a barbell or dumbbells upward from an inclined position.",
+          "image": "https://cdn.muscleandstrength.com/sites/default/files/incline-bench-press.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=8g6B_F3T_lU",
+          "characterImage": "https://image.myupchar.com/9694/webp/incline-bench-press-benefits-types-technique.webp",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Adjust the bench to a 30-45 degree angle to target the upper chest effectively. Keep your feet flat on the ground and avoid excessive arching of the back to prevent strain."
+        },
+        {
+          "name": "Flat Bench Press",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "The Flat Bench Press is a classic strength training exercise performed lying on a flat bench while pressing a barbell or dumbbells upwards. It primarily targets the pectoral muscles, deltoids, and triceps, enhancing upper body strength and muscle definition.",
+          "image": "https://bodybuilding-wizard.com/wp-content/uploads/2014/03/flat-barbell-bench-press-0-1-2-2-1.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=rT7DgCr-3pg",
+          "characterImage": "https://weighttraining.guide/wp-content/uploads/2016/05/Barbell-Bench-Press-resized.png",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Maintain proper form by keeping your feet flat on the floor, back slightly arched, and wrists aligned with the bar. Avoid excessive arching or flaring elbows to minimize shoulder strain."
+        },
+        {
+          "name": "Decline Bench Press",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "The Decline Bench Press is a variation of the flat bench press performed on a bench set at a decline angle. This exercise emphasizes the lower part of the pectoral muscles while also working the deltoids and triceps. It involves pressing a barbell or dumbbells upwards while lying on the decline bench.",
+          "image": "https://www.intowellness.in/wp-content/uploads/2019/09/Olympic-Decline-Press.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=sQimzjF2Ejs",
+          "characterImage": "https://fitnessprogramer.com/wp-content/uploads/2021/03/Decline-Barbell-Bench-Press.gif",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Keep your feet secured and your body stable throughout the movement. Ensure proper form by keeping your back firmly against the bench and avoiding excessive shoulder strain."
+        },
+        
+        {
+          "name": "Cable Pec Flys",
+          "targetMuscle": "Chest",
+          "description": "Cable Pec Flys are an isolation exercise performed using a cable machine. This exercise focuses on the pectoral muscles by bringing the arms together in front of the body while keeping a slight bend in the elbows. It helps in developing chest strength and definition.",
+          "image": "https://cdn.muscleandstrength.com/sites/default/files/standing-cable-fly1.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=8eLepK5FZlM",
+          "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf2kqVchJ7Xo4la4AepB_l8057DY1m1q2N4A&s",
+          "repsChart": "10-15 reps, 3-4 sets",
+          "note": "Keep a slight bend in your elbows throughout the movement and avoid letting the weights pull your arms too far back. Focus on a controlled motion and squeeze the chest at the end of the movement."
+        },
+        {
+          "name": "Machine Press",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "The Machine Press is a strength training exercise performed on a machine that guides the movement, providing stability and control. This exercise targets the pectoral muscles, deltoids, and triceps by pressing a weighted handle or bar forward while seated.",
+          "image":"https://media.post.rvohealth.io/wp-content/uploads/2019/05/Male_Chest_Press_732x549-thumbnail.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=QUk0DL0L3z0",
+          "characterImage": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/12/machine-chest-press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Ensure proper alignment of your body and adjust the seat so that the handles are in line with your chest. Maintain a controlled movement and avoid locking your elbows at the top of the press to protect your joints."
+        },
+      
+        {
+          "name": "Parallel Bar Dips",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "Parallel Bar Dips are a bodyweight exercise performed on parallel bars. This exercise targets the chest, shoulders, and triceps. By lowering and raising your body between the bars, you engage multiple upper body muscles, with a focus on the chest when leaning forward.",
+          "image": "https://s3.amazonaws.com/prod.skimble/assets/1804040/image_iphone.jpg",
+          "videoLink": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "characterImage": "https://strengthbuzz.com/wp-content/uploads/2019/12/Parallel-Bar-Dips.jpg",
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Keep your body upright and elbows close to your sides for a tricep-focused dip, or lean forward slightly to emphasize the chest. Ensure your movements are controlled and avoid excessive swinging."
+        },  
+        {
+          "name": "Wide Push-Ups",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "Wide Push-Ups are a variation of the standard push-up with hands placed wider than shoulder-width apart. This positioning increases the emphasis on the pectoral muscles, particularly the outer chest, while still engaging the shoulders and triceps.",
+          "image": "https://cdn.fitimg.in/content_blog_inner_7C51AF13.png",
+          "videoLink": "https://www.youtube.com/watch?v=U8JcO4Wk3WU",
+          "characterImage": "https://fitliferegime.com/wp-content/uploads/2021/08/Wide-Push-Ups.jpg",
+          "repsChart": "10-15 reps, 3-4 sets",
+          "note": "Ensure your hands are positioned wider than shoulder-width and keep your body in a straight line throughout the movement. Lower yourself until your chest is close to the ground, then push back up while keeping your elbows out to the sides."
+        },
+        {
+          "name": "Chest Dips",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "Chest Dips are a bodyweight exercise primarily targeting the chest, along with the shoulders and triceps. Performed on parallel bars, this exercise emphasizes the chest when you lean forward, allowing a deeper stretch and engagement of the chest muscles.",
+          "image": "https://yourgymguides.com/wp-content/uploads/2019/01/Chest-Dips-.jpg",  
+          "videoLink": "https://www.youtube.com/watch?v=2z8JmcrW-As",  
+          "characterImage": "https://i.pinimg.com/originals/65/4c/e0/654ce00333924667f96877d259bf65ed.png", 
+          "repsChart": "8-12 reps, 3-4 sets",
+          "note": "Lean forward during the dip to emphasize the chest muscles. Keep the elbows flared out slightly for more chest activation. Ensure a full range of motion and controlled movements to maximize the stretch and contraction of the chest."
+        },
+        {
+          "name": "Isometric Wall Press",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "The Isometric Wall Press is an isometric exercise that targets the chest, shoulders, and triceps. By pressing against a wall with your arms, you engage and contract your upper body muscles without movement, focusing on building strength and endurance.",
+          "image": "https://cdn.shopify.com/s/files/1/1633/7705/files/overcoming-isometrics_large.jpg?v=1561307506", 
+          "videoLink": "https://www.youtube.com/watch?v=abcdABCD1234",  
+          "characterImage": "https://tse2.mm.bing.net/th?id=OIP.rPwroH242p8rurkU6J2naQHaFc&pid=Api&P=0&h=180",  
+          "repsChart": "Hold for 15-30 seconds, 3-4 sets",
+          "note": "Press firmly against the wall while keeping your back straight and core engaged. Focus on contracting your chest muscles and maintaining tension throughout the hold. Avoid arching your back or letting your shoulders rise up."
+        },
+        {
+          "name": "Plate Press",
+          "targetMuscle": "Chest, Shoulders, Triceps",
+          "description": "The Plate Press is a chest exercise that involves pressing a weight plate between your hands to engage the chest, shoulders, and triceps. This movement emphasizes the inner chest and creates constant tension, making it highly effective for chest development.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPRS-g-9KwqI6Vxl4NImmurtxSZDl21uQdg&s",  
+          "videoLink": "https://www.youtube.com/watch?v=EFGH5678ijkl",  
+          "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZkcg7cBZk1OFabpOMLyFDIVjp3m6mer-Lw&s", 
+          "repsChart": "10-15 reps, 3-4 sets",
+          "note": "Squeeze the plate firmly between your hands to maximize chest engagement. Keep your movements slow and controlled, avoiding jerky motions. Maintain proper form with your back straight and shoulders down."
+        }
+      ],
+      "cardio": [
+        {
+          "name": "Jump Rope",
+          "targetMuscle": "Full Body, Cardiovascular System",
+          "description": "Jump Rope is a high-intensity cardio exercise that helps improve cardiovascular health, coordination, and endurance. It engages multiple muscle groups including the calves, shoulders, and core.",
+          "image": "https://static.toiimg.com/photo/71956822.cms",
+          "videoLink": "https://www.youtube.com/watch?v=1BZM9WfKC6I",
+          "characterImage": "https://www.shutterstock.com/image-vector/man-cardio-workout-doing-skipping-260nw-2282206393.jpg",
+          "repsChart": "30 seconds to 1 minute intervals, 3-5 sets",
+          "note": "Perform this exercise with proper footwear and on a flat surface to reduce the risk of injury. Start slow and gradually increase intensity."
+        },
+        
+        {
+            "name": "Jumping Jacks",
+            "targetMuscle": "Full Body, Cardiovascular System",
+            "description": "Jumping Jacks are a full-body cardio exercise that helps improve cardiovascular fitness, coordination, and muscle endurance. It involves jumping while spreading the legs and raising the arms overhead.",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-barechested-muscular-man-practicing-royalty-free-image-1663776097.jpg",
+            "videoLink": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
+            "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtSt8syNe7eT-3pebxnDQkjIwpKeNmJ4BEw&s",
+            "repsChart": "20-30 reps, 3-4 sets",
+            "note": "Ensure to land softly on your feet to reduce impact on the joints. Perform this exercise with proper form to maximize benefits and prevent injury."
+          },
+           
+          {
+            "name": "Jumping Knees",
+            "targetMuscle": "Core, Lower Body, Cardiovascular System",
+            "description": "Jumping Knees, also known as High Knees, is a high-intensity cardio exercise that targets the core, quadriceps, hamstrings, and calves while boosting heart rate. It involves jogging in place with knees lifting towards the chest.",
+            "image": "https://www.mensjournal.com/.image/t_share/MTk2MTM2NTUyNzE3NDkzMzkz/_main_boxjump_2.jpg",
+            "videoLink": "https://www.youtube.com/watch?v=8opcQdC-V-U",
+            "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR45Yg5xuHa1SPfUKVvZk3Gu83V9f2kwrTzg&s",
+            "repsChart": "20-30 seconds, 3-5 sets",
+            "note": "Maintain an upright posture and engage your core throughout the exercise. Perform on a soft surface to minimize impact on the joints."
+          },
+        
+          {
+            "name": "Shoulder Taps",
+            "targetMuscle": "Core, Shoulders, Arms",
+            "description": "Shoulder Taps are performed in a plank position, alternating tapping each shoulder with the opposite hand. This exercise enhances core stability, shoulder strength, and improves overall body balance.",
+            "image": "https://i.ytimg.com/vi/wcKyqAMqueQ/maxresdefault.jpg",
+            "videoLink": "https://www.youtube.com/watch?v=4Fa34zKfRk8",
+            "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvgbgNHOLyGHr5fWxGOYE4nKYjeFjhwsXbA&s",
+            "repsChart": "10-15 taps per side, 3-4 sets",
+            "note": "Keep your core engaged and hips as stable as possible to prevent rocking. Perform slowly and with control for the best results."
+          },
+          {
+            "name": "Squats",
+            "targetMuscle": "Quadriceps, Glutes, Hamstrings, Core",
+            "description": "Squats are a fundamental lower body exercise that targets the quadriceps, glutes, hamstrings, and core. By lowering the hips down and back as if sitting on an invisible chair, squats improve leg strength, core stability, and overall body balance.",
+            "image": "https://media.hearstapps.com/loop/2022-runnersworld-membership-workouts-ep19-howtodoasquat-dm-squat-v01-1653425282.mp4/poster.jpg",
+            "videoLink": "https://www.youtube.com/watch?v=aclHkVaku9U",
+            "characterImage": "https://enarahealth.com/wp-content/uploads/2022/03/PngItem_2810409-e1647565708516.png",
+            "repsChart": "10-15 reps, 3-4 sets",
+            "note": "Keep your chest up, back straight, and knees aligned with your toes. Avoid letting your knees cave in and ensure proper form to prevent injuries and maximize effectiveness."
+          },
+          {
+            "name": "Side Jacks",
+            "targetMuscle": "Lower Body, Cardiovascular System",
+            "description": "Side Jacks are a variation of the traditional jumping jacks that focus on lateral movement. This exercise targets the inner and outer thighs while providing a cardiovascular workout, improving coordination, and enhancing lower body strength.",
+            "image": "https://i.ytimg.com/vi/JHdVMkRBuRA/maxresdefault.jpg",
+            "videoLink": "https://www.youtube.com/watch?v=9QG2JzV-T48",
+            "characterImage": "https://www.shutterstock.com/image-vector/illustrator-vector-character-gym-boy-260nw-1755030896.jpg",
+            "repsChart": "15-20 reps per side, 3-4 sets",
+            "note": "Maintain an upright posture and engage your core. Perform this exercise with controlled movements to maximize the benefits and reduce the risk of injury."
+          }
+      ]
+    }
+  
