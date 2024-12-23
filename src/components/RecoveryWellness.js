@@ -69,7 +69,7 @@ const RecoveryWellness = () => {
     };
 
     fetchData();
-  }, [selectedGoal]);
+  }, [selectedGoal,calorieIntake]);
 
   if (loading) return <div className="text-center p-4">Loading...</div>;
   if (error) return <div className="text-center p-4 text-red-600">{error}</div>;
