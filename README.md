@@ -49,7 +49,7 @@ To run the project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Manassingh-prog77/workout-planner.git
+git clone https://github.com/Manassingh-prog77/WorkoutPlanner.git
 cd workout-planner
 
 # Install Dependencies
