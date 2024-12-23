@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.5",
     "bcryptjs": "^2.4.3",
-    "concurrently": "^9.0.0",
+    "concurrently": "^9.1.0",
     "cors": "^2.8.5",
     "express-validator": "^7.2.0",
     "express.js": "^1.0.0",
@@ -55,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
